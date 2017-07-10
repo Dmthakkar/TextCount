@@ -1,0 +1,14 @@
+com\inteliment\springrest\model\SearchText.class
+com\inteliment\springrest\security\CustomBasicAuthenticationEntryPoint.class
+com\inteliment\springrest\utility\CounterPropertyConfig.class
+com\inteliment\springrest\config\AppConfig.class
+com\inteliment\springrest\model\Counter.class
+com\inteliment\springrest\config\AppInitializer.class
+com\inteliment\springrest\config\AppFilter.class
+com\inteliment\springrest\controller\RestCounterController.class
+com\inteliment\springrest\security\SecurityConfiguration.class
+com\inteliment\springrest\model\CounterProperty.class
+com\inteliment\springrest\security\SecurityWebApplicationInitializer.class
+com\inteliment\springrest\utility\CounterPropertyReader.class
+com\inteliment\springrest\service\CounterServiceImpl.class
+com\inteliment\springrest\service\CounterService.class
